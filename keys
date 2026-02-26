@@ -1,1 +1,14 @@
-
+{
+  "gemini_api_keys": [
+    "AIzaSyA-J6Pp-BiCa4y8zvevFt9Db0mFSohgFgc",
+    "AIzaSyBCpvbv0f3OVu_eeVuH1KZgSmQwGLbAz08",
+    "AIzaSyC1k4RZ1AwhVkAy_kRP-f48DS5iHh83eS4",
+    "AIzaSyCsZLcsGRUU6cHYCe7zAZcc28mb43MFuGU",
+    "AIzaSyBinxNAgHo8oWw4GCvXxAa3zBvLAOdzI6o",
+    "AIzaSyDR_CXWn78j2-N_mriaYtQCm50bdXNnulY",
+    "AIzaSyDHIn8AzofUwuETSaLZD7W5aCSEOtzTfxA",
+    "AIzaSyDHrolqb40250SxfazAx_RKhK-f6Sj_PtM",
+  ],
+  "revenuecat_apple_key": "",
+  "revenuecat_google_key": ""
+}
